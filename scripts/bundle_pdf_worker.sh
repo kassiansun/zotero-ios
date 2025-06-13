@@ -1,5 +1,6 @@
 #!/bin/bash
 
+PATH=/usr/bin:/bin:/usr/sbin:/sbin
 set -eo pipefail
 
 realpath() {
